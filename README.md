@@ -1,2 +1,2 @@
 # reactapp
-A frontend Netflix App
+A Frontend Netflix App
